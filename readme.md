@@ -1,0 +1,2 @@
+rinkeby address: 0x671B5777f686fA0f65Edd6fBb805cA457aceaF2b
+binance testnet address: 0x40e3996F0E9fccEd1AeD1875E4803BcEEA6255f6
