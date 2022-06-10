@@ -86,8 +86,8 @@ contract Bridge {
             ),
             "Signature is invalid"
         );
-        _erc20Token.mint(to, amount);
         _executedOperations[message] = true;
+        _erc20Token.mint(to, amount);
     }
 
     function checkSignature(
